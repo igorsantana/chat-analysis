@@ -1,0 +1,5 @@
+.env
+src/metadata/*
+src/logs/*
+node_modules
+TwitchDownloaderCLI

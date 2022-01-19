@@ -1,0 +1,20 @@
+{
+  "name": "twitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@twurple/api": "^5.0.13",
+    "@twurple/auth": "^5.0.13",
+    "@twurple/eventsub": "^5.0.13",
+    "cli-progress": "^3.10.0",
+    "dotenv": "^14.2.0",
+    "node-fetch": "^3.1.1",
+  }
+}
