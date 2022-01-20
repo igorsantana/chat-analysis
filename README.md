@@ -12,7 +12,7 @@ Another goal of this project is to build a ML model that will train with the dow
 
 ## Goals:
 
-* [ ] Filter chat log of default messages, like subscription and gifting subs.
-* [ ] Decide the model to get the embeddings
-* [ ] Apply the model to the chat messages
+* [x] Filter chat log of default messages, like subscription and gifting subs.
+* [x] Decide the model to get the embeddings
+* [x] Apply the model to the chat messages
 * [ ] Get some info from data lol dont know yet
